@@ -143,7 +143,7 @@ g++ main.cpp -o library
 
 This screen displays the primary interface of the system. It provides all available operations such as adding books, issuing books, returning books, searching, and saving data.
 
-<img width="827" height="700" alt="Screenshot 2026-05-02 160241" src="https://github.com/user-attachments/assets/1fa2d48d-f1e3-467b-a314-f387a7972c31" />
+<img width="827" height="700" alt="Image" src="https://github.com/user-attachments/assets/1fa2d48d-f1e3-467b-a314-f387a7972c31" />
 
 
 
@@ -153,7 +153,8 @@ This screen displays the primary interface of the system. It provides all availa
 
 This screen shows the process of adding a new book. It validates ISBN format and ensures no duplicate entries are added to the system.
 
-<img width="798" height="788" alt="image" src="https://github.com/user-attachments/assets/a651d1be-a643-4219-bc78-40c8232921dd" />
+<img width="798" height="788" alt="Image" src="https://github.com/user-attachments/assets/3044526a-2e3a-464c-a779-9905e86af989" />
+
 
 
 ---
@@ -162,7 +163,8 @@ This screen shows the process of adding a new book. It validates ISBN format and
 
 This section demonstrates registering a new member with proper validation for email, phone number, and member ID.
 
-<img width="810" height="774" alt="image" src="https://github.com/user-attachments/assets/41ee0bc2-c19c-4b40-a3ed-c7224c45d9dc" />
+<img width="810" height="774" alt="Image" src="https://github.com/user-attachments/assets/4be7a883-9b46-4e8a-b3fc-2d28d9610c21" />
+
 
 ---
 
@@ -170,7 +172,8 @@ This section demonstrates registering a new member with proper validation for em
 
 This output shows issuing books to a member. It validates borrowing limits and available copies before completing the transaction.
 
-<img width="938" height="880" alt="image" src="https://github.com/user-attachments/assets/a162cbf4-0f49-4b0e-afdf-53fd9a84b8ed" />
+<img width="938" height="880" alt="Image" src="https://github.com/user-attachments/assets/68df5d19-8108-47a5-880d-a8368dfd129f" />
+
 
 ---
 
@@ -178,7 +181,8 @@ This output shows issuing books to a member. It validates borrowing limits and a
 
 This screen shows returning books with support for partial returns. It updates both member records and book inventory.
 
-<img width="948" height="881" alt="image" src="https://github.com/user-attachments/assets/fac6aada-3d75-4b50-81d6-f7086c84b549" />
+<img width="948" height="881" alt="Image" src="https://github.com/user-attachments/assets/46b50b4c-10d6-457b-aba3-015210b90a85" />
+
 
 ---
 
@@ -186,7 +190,8 @@ This screen shows returning books with support for partial returns. It updates b
 
 Displays search functionality where users can find books by title or author efficiently.
 
-<img width="820" height="795" alt="image" src="https://github.com/user-attachments/assets/fadd5a30-e220-4b02-955f-c6161ca59fd5" />
+<img width="820" height="795" alt="Image" src="https://github.com/user-attachments/assets/2d7f05e8-29ae-4b74-97e9-a27999270afb" />
+
 
 ---
 
@@ -194,7 +199,8 @@ Displays search functionality where users can find books by title or author effi
 
 Shows the complete list of books in a structured table format including availability and total copies.
 
-<img width="965" height="811" alt="image" src="https://github.com/user-attachments/assets/0bb0143a-7183-487b-9594-bc3aed3707bc" />
+<img width="957" height="801" alt="Image" src="https://github.com/user-attachments/assets/7068d8fd-8176-45c1-b7ed-25d61c5834d7" />
+
 
 ---
 
@@ -202,7 +208,8 @@ Shows the complete list of books in a structured table format including availabi
 
 Displays all registered members along with their borrowing details and limits.
 
-<img width="962" height="820" alt="image" src="https://github.com/user-attachments/assets/532ba1f5-c816-4732-9d7a-e0aedc397493" />
+<img width="962" height="820" alt="Image" src="https://github.com/user-attachments/assets/d9e80a99-c8fa-4e45-ab0f-5d7e41fc6cec" />
+
 
 ---
 
@@ -210,11 +217,13 @@ Displays all registered members along with their borrowing details and limits.
 
 This output shows file operations where data is saved and loaded, ensuring persistence across program runs.
 
-<img width="823" height="784" alt="image" src="https://github.com/user-attachments/assets/aaf7598e-32b3-4e42-86fc-3eb7d0241719" />
+<img width="823" height="784" alt="Image" src="https://github.com/user-attachments/assets/15862e9c-cb17-47d1-b9ec-a90769066a34" />
 
 
 
-<img width="836" height="722" alt="image" src="https://github.com/user-attachments/assets/3d874c4d-1c5b-4975-82f0-6020030e71c9" />
+
+<img width="836" height="722" alt="Image" src="https://github.com/user-attachments/assets/a9877b2c-58c9-4f24-b685-8cfddf47d65f" />
+
 
 
 ---
