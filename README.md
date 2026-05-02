@@ -143,7 +143,8 @@ g++ main.cpp -o library
 
 This screen displays the primary interface of the system. It provides all available operations such as adding books, issuing books, returning books, searching, and saving data.
 
-<img width="827" height="700" alt="image" src="https://github.com/user-attachments/assets/e0ab4159-8061-40d6-bded-29c82675a43c" />
+<img width="827" height="700" alt="Screenshot 2026-05-02 160241" src="https://github.com/user-attachments/assets/1fa2d48d-f1e3-467b-a314-f387a7972c31" />
+
 
 
 ---
